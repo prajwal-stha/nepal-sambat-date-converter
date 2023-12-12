@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nepal-bhasa-date-converter.iml" filepath="$PROJECT_DIR$/.idea/nepal-bhasa-date-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nepal-sambat-date-converter/.idea/nepal-sambat-date-converter.iml" filepath="$PROJECT_DIR$/../nepal-sambat-date-converter/.idea/nepal-sambat-date-converter.iml" />
     </modules>
   </component>
 </project>
